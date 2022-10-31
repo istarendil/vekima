@@ -27,6 +27,9 @@ VeKima is fully based on the Robot Operating System (ROS)
 # Demo
 ![test](https://user-images.githubusercontent.com/107052856/199052825-3dac8b66-383d-4ab7-987e-da511c15c764.png)
 <br>
+Follow this [link](https://www.youtube.com/watch?v=cbnw_SmmBGw&list=PLQBwkbxMqU0CwwgrcaWHP4ouFjho0Iy4H&index=2&t=1s) to see a prelimiary test
+<br>
+![videoplayback__1__AdobeExpress](https://user-images.githubusercontent.com/107052856/199109905-2e8f2e8a-e9fe-468f-8aa7-caf91b75af4a.gif)<br>
 Follow this [link](https://www.youtube.com/watch?v=VcLnfnzkvF8) for the full demo.
 <br>
 ![](https://github.com/istarendil/vekima/blob/main/media/aeroterrestrial_transition.gif)
