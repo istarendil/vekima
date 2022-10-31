@@ -1,6 +1,6 @@
 # VeKima
 VeKima is a low-cost physical-experimental platform for the research of multimodal locomotion in bioinspired mobile robots.
-It consist on a hexapod terrestrial robot with the capability of flight strongly bioinspired on [hymenoptera](https://es.wikipedia.org/wiki/Hymenoptera) insects.<br>
+It consist on a hexapod terrestrial robot with the ability to fly and strongly bioinspired on [hymenoptera](https://es.wikipedia.org/wiki/Hymenoptera) insects.<br>
 ![vekima](https://user-images.githubusercontent.com/107052856/199059401-594f34c9-c5d4-4e0f-857a-7e1106deb5cf.png)
 
 
@@ -9,7 +9,7 @@ Terrestrial locomotion is achieved by using a set of non-linear oscillators insp
 ![cpg](https://user-images.githubusercontent.com/107052856/199059199-a7511b83-c7f4-480e-951d-9b1373064ecf.png)
 
 
-A network of nonlinear oscillators is capable o changing the speed and direction of the locomotion by modifying its frequency and internal synchronization.<br>
+A network of nonlinear oscillators is capable of changing the speed and direction of the locomotion by modifying its frequency and internal synchronization.<br>
 ![cpg_net](https://user-images.githubusercontent.com/107052856/199052278-242759b0-e2d1-4ae1-9394-7f67574a4cef.png)
 
 # Physical structure
