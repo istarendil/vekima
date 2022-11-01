@@ -21,8 +21,11 @@ VeKima is fully based on the Robot Operating System (ROS)
 ![ros_graph](https://user-images.githubusercontent.com/107052856/199058838-eecf3194-44ed-4a07-8108-6e7dce1439b1.png)
 
 # Publications
-- [1] C. A. Sánchez-Delgado, J. C. Ávila Vilchis, A. H. Vilchis-González, and B. Saldivar, “[Nonlinear Oscillator-Based Gait Generation for a Novel Aero-Terrestrial Bioinspired Robotic System](https://doi.org/10.1115/1.4047269)”, Journal of Mechanisms and Robotics, vol. 12, no. 6, Aug. 2020, doi: 10.1115/1.4047269.
-- [2] C. A. Sánchez-Delgado, J. C. Ávila Vilchis, A. H. Vilchis-González, and B. Saldivar, “[Integración de los Modos de Locomoción Terrestre y Aérea en Robots Móviles](http://smia.mx/komputersapiens/publicaciones.html)”, KSapiens Journal of Mexican Society of Artificial Intelligence, vol. 1, year. 12
+- [1] C. A. Sánchez-Delgado, J. C. Ávila Vilchis, A. H. Vilchis-González, and B. Saldivar, ["Nonlinear Oscillator-Based Gait Generation for a Novel Aero-Terrestrial Bioinspired Robotic System"](https://doi.org/10.1115/1.4047269)”, Journal of Mechanisms and Robotics, vol. 12, no. 6, Aug. 2020, doi: 10.1115/1.4047269.
+
+- [2] C. A. Sánchez-Delgado, J. C. Ávila Vilchis, ["Integration of aerial and terrestrial locomotion modes in a
+bioinspired robotic system"](http://ri.uaemex.mx/bitstream/handle/20.500.11799/110475/2020_MCI_CarlosSAnchezDelgado.pdf), Oct. 2019.
+- [3] C. A. Sánchez-Delgado, J. C. Ávila Vilchis, A. H. Vilchis-González, and B. Saldivar, ["Integración de los Modos de Locomoción Terrestre y Aérea en Robots Móviles"](http://smia.mx/komputersapiens/publicaciones.html), KSapiens Journal of Mexican Society of Artificial Intelligence, vol. 1, year. 12
 
 # Demo
 ![test](https://user-images.githubusercontent.com/107052856/199052825-3dac8b66-383d-4ab7-987e-da511c15c764.png)
