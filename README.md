@@ -1,6 +1,7 @@
 # VeKima
 VeKima is a low-cost physical-experimental platform for the research of multimodal locomotion in bioinspired mobile robots.
 It consist on a hexapod terrestrial robot with the ability to fly and strongly bioinspired on [hymenoptera](https://es.wikipedia.org/wiki/Hymenoptera) insects.<br>
+![vekima_physical](https://github.com/istarendil/vekima/assets/107052856/d22c98b8-e25a-4f26-8aea-462a55d1dc1a)
 ![vekima](https://user-images.githubusercontent.com/107052856/199059401-594f34c9-c5d4-4e0f-857a-7e1106deb5cf.png)
 
 
